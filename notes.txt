@@ -1,0 +1,20 @@
+notes and research that were helpful for this project:
+----
+
+python does not want to open chromium... a service will work 
+
+simple way to open webbrowser in fullscreen from python script
+https://raspberrypi.stackexchange.com/questions/110975/simple-way-to-open-webbrowser-in-fullscreen-from-python-script
+
+----
+How to enable a virtualenv in a systemd service unit?
+https://stackoverflow.com/questions/37211115/how-to-enable-a-virtualenv-in-a-systemd-service-unit
+
+----
+make python script into a startup service while using a virtualenv:
+https://serverfault.com/questions/821575/systemd-run-a-python-script-at-startup-virtualenv
+
+----
+How to process SIGTERM signal gracefully?
+https://stackoverflow.com/questions/18499497/how-to-process-sigterm-signal-gracefully
+
