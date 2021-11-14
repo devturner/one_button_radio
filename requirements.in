@@ -1,0 +1,6 @@
+gpiod
+Pillow
+pip-tools
+pyautogui
+RPi.GPIO
+xlib
